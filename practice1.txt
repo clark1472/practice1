@@ -41,3 +41,5 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 chris@LAPTOP-86NCSGS5 MINGW64 ~/practice1 (master)
 $
 git push --set-upstream origin master
+
+Kyle was helpful
